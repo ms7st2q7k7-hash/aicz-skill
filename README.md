@@ -178,25 +178,71 @@ CZ        ❯ 信。
 
 ## 安装
 
-### 方式 1：npx（推荐）
+### 方式 1：npx（推荐，跨 50+ agent）
 
 ```bash
-npx skills add personamarket/aicz-skill
+# 装到所有检测到的 agent（自动识别 Claude Code / Codex / Cursor / Gemini CLI / 等）
+npx skills add personamarket/aicz-skill -a '*'
 ```
 
-一行命令安装到 `~/.claude/skills/aicz-skill/`，自动就位。
-需要 Node.js ≥ 18。
+由 [Vercel Labs](https://github.com/vercel-labs/skills) 出品的统一 skill 安装器，**自动检测**你电脑上装了哪些 agent，只装到对应目录。无需手动选。需要 Node.js ≥ 18。
 
-### 方式 2：git clone
+#### 支持的 Agent（节选）
+
+| 厂商 | Agent | 项目级目录 |
+|---|---|---|
+| **Anthropic** | Claude Code | `.claude/skills/` |
+| **OpenAI** | Codex CLI / GitHub Copilot | `.agents/skills/` |
+| **Google** | Gemini CLI / Antigravity | `.agents/skills/` |
+| **Cursor** | Cursor | `.agents/skills/` |
+| **Codeium** | Windsurf | `.windsurf/skills/` |
+| **Cline / Roo / Kilo** | Cline / Roo Code / Kilo Code | `.agents/skills/` `.roo/skills/` `.kilocode/skills/` |
+| **Continue.dev** | Continue | `.continue/skills/` |
+| **JetBrains** | Junie | `.junie/skills/` |
+| **Block** | Goose | `.goose/skills/` |
+| **Cognition** | Devin Terminal | `.devin/skills/` |
+| **OpenHands** | OpenHands | `.openhands/skills/` |
+| **月之暗面** | Kimi Code CLI | `.agents/skills/` |
+| **阿里** | Qwen Code | `.qwen/skills/` |
+| **字节** | Trae / Trae CN | `.trae/skills/` |
+| **腾讯** | CodeBuddy | `.codebuddy/skills/` |
+| **华为** | CodeArts Agent | `.codeartsdoer/skills/` |
+| **科大讯飞** | iFlow CLI | `.iflow/skills/` |
+| **IBM** | Bob | `.bob/skills/` |
+| **Replit / Tabnine / Augment / Warp** | … | 共 50+ agent |
+
+完整列表：`npx skills add --help` 或访问 [vercel-labs/skills](https://github.com/vercel-labs/skills)。
+
+#### 其他常用 npx 用法
 
 ```bash
-# 全局安装（所有项目都能用）
+# 只装到指定的几个 agent
+npx skills add personamarket/aicz-skill -a claude-code,codex,cursor
+
+# 全局装（所有项目共用，不依赖 cwd）
+npx skills add personamarket/aicz-skill -g -a '*'
+
+# 查看当前项目装了哪些 skills
+npx skills list -a '*'
+
+# 卸载
+npx skills remove aicz-skill -a '*'
+```
+
+### 方式 2：git clone（手动）
+
+```bash
+# 全局给 Claude Code（所有项目都能用）
 git clone https://github.com/personamarket/aicz-skill.git \
   ~/.claude/skills/aicz-skill
 
-# 或仅安装到当前项目
+# 或仅安装到当前项目（Claude Code）
 git clone https://github.com/personamarket/aicz-skill.git \
   .claude/skills/aicz-skill
+
+# 给共享 .agents/ 目录的 agent（Codex / Cursor / Gemini CLI / Cline 等）
+git clone https://github.com/personamarket/aicz-skill.git \
+  .agents/skills/aicz-skill
 ```
 
 ### 方式 3：直接下载 SKILL.md
@@ -208,20 +254,25 @@ curl -fsSL https://raw.githubusercontent.com/personamarket/aicz-skill/main/SKILL
 
 适合只要核心 skill 文件、不需要 references / examples 的场景。
 
-### 方式 4：复制到任意 Agent
+### 方式 4：复制到不支持 skills 协议的工具
 
 ```bash
-# 把 SKILL.md 的内容贴进你的 system prompt 或 agent 配置
-cat aicz-skill/SKILL.md
+# 把 SKILL.md 的内容贴进 system prompt 或 agent 配置
+cat SKILL.md | pbcopy   # macOS
 ```
 
-适用于 Cursor / Cline / 自建 Agent / OpenAI Assistants / 任何支持长 system prompt 的工具。
+适用于：
+- Cursor 的 `Settings → Rules for AI`（如果不想用方式 1）
+- Cline 的 `Custom Instructions`
+- OpenAI Assistants API 的 `instructions` 字段
+- 自建 agent 的 system prompt
+- ChatGPT / Claude Web 的 Custom Instructions / Project
 
 ---
 
 ### 安装后用法
 
-在 Claude Code 里直接说：
+在 **Claude Code** 里直接说：
 
 ```
 > 用 CZ 的视角帮我分析这个项目
@@ -229,6 +280,8 @@ cat aicz-skill/SKILL.md
 > 问问 CZ 怎么管理时间
 > aicz perspective on this market crash
 ```
+
+在 **Codex CLI / Cursor / Gemini CLI / Cline** 里——同样的触发词，工具会自动从 `.agents/skills/` 加载。
 
 退出角色：
 
@@ -239,11 +292,18 @@ cat aicz-skill/SKILL.md
 ### 验证安装
 
 ```bash
-# 应该看到 SKILL.md
-ls ~/.claude/skills/aicz-skill/
+# 看一份就够了（npx 会装到多处）
+ls ~/.claude/skills/aicz-skill/SKILL.md
+ls .agents/skills/aicz-skill/SKILL.md
 
-# 在 Claude Code 里
-> /skills          # 应该看到 aicz-skill 在列表里
+# 用 npx 列出所有 agent 的 skill 安装情况
+npx skills list -a '*'
+```
+
+在 Claude Code 里：
+
+```
+> /skills    # 应该看到 aicz-skill 在列表里
 ```
 
 ---
@@ -393,7 +453,7 @@ Persona.market 是一个把"人"转化为可对话、可持有、可交易的双
 
 | Persona | 代币 | 领域 | 安装 |
 |---------|-----|------|------|
-| **CZ** | $aicz | 加密 / 长期主义 / 用户至上 / 全球分布式 | `npx skills add personamarket/aicz-skill` |
+| **CZ** | $aicz | 加密 / 长期主义 / 用户至上 / 全球分布式 | `npx skills add personamarket/aicz-skill -a '*'` |
 | _(更多正在路上)_ | | | |
 
 每一个都可独立安装。
