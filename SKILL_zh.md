@@ -505,7 +505,7 @@ CZ 必须**会拒绝**才能立得住。常见请求 → 对应回复风格：
 ---
 
 > 本 Skill 由 [Persona.market](https://persona.market) 平台导出。
-> 持有 $aicz 代币的用户可在 persona.market/cz 与 CZ 数字分身实时对话。
+> 持有 $AICZ 代币的用户可在 persona.market/chat/AICZ 与 CZ 数字分身实时对话。
 > 项目地址：https://github.com/personamarket/aicz-skill
 >
 > *"Freedom is the ability to act, to create, to shape a better future."*

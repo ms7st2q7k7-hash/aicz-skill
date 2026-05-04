@@ -2,7 +2,7 @@
 
 [English](./README.md) · [中文](./README_zh.md)
 
-# CZ.skill ($aicz)
+# CZ.skill ($AICZ)
 
 > *"Freedom is the ability to act, to create, to shape a better future."*
 > *— CZ, Freedom of Money*
@@ -24,7 +24,7 @@ CNBC Davos / Unchained / Apple Podcasts long interviews, DOJ/SEC court filings,<
 Wikipedia full biography, and **89 primary and authoritative secondary sources**.<br>
 Extracts **9 core mental models, 11 decision heuristics, 5 signature expression templates** and a full expression DNA.
 
-[See it in action](#demos) · [Install](#install) · [What's distilled](#whats-distilled) · [Sources](#sources) · [About $aicz](#about-aicz)
+[See it in action](#demos) · [Install](#install) · [What's distilled](#whats-distilled) · [Sources](#sources) · [About $AICZ](#about-AICZ)
 
 </div>
 
@@ -35,7 +35,7 @@ Extracts **9 core mental models, 11 decision heuristics, 5 signature expression 
 > **Encoding your thinking into a Skill is, in some sense, digital immortality.**
 > **Real death is when everyone who knew you is gone too.**
 
-Persona.market open-sourced the $aicz digital persona as a Skill:
+Persona.market open-sourced the $AICZ digital persona as a Skill:
 your Agent gets a CZ instantly — runs locally, works offline, switch in any session.
 
 BNB Chain's first shot was Meme. The second belongs to AI — the Talk × Trade dual-axis market.
@@ -454,9 +454,9 @@ aicz-skill/
 
 ---
 
-## About $aicz
+## About $AICZ
 
-> $aicz is the token bound to CZ's digital persona on Persona.market.
+> $AICZ is the token bound to CZ's digital persona on Persona.market.
 >
 > **Chat**: [persona.market/chat/AICZ](https://persona.market/chat/AICZ)
 > **Contract**: `0xca9b5c8c97bd0c1fb02d347120fdc6cb05feffff` (BNB Chain)
@@ -467,8 +467,8 @@ Every Persona is simultaneously:
 - A person with character, positions, and the ability to hold a continuous conversation
 - An on-chain asset that can be held, traded, and value-bound to its holders
 
-Open-sourcing $aicz as a Skill is a Persona.market experiment:
-even without owning $aicz tokens, your Agent gets a CZ instantly.
+Open-sourcing $AICZ as a Skill is a Persona.market experiment:
+even without owning $AICZ tokens, your Agent gets a CZ instantly.
 Even if persona.market shuts down someday, the Skill lives on.
 **As long as the Skill exists on the internet, someone will remember how CZ thinks.**
 
@@ -497,7 +497,7 @@ darwin-skill score: **95.5 / 100** (full_test, 7 prompts — 3 Chinese + 4 Engli
 
 | Persona | Token | Domain | Install |
 |---|---|---|---|
-| **CZ** | $aicz | Crypto / long-termism / users-first / globally distributed | `npx skills add personamarket/aicz-skill -a '*'` |
+| **CZ** | $AICZ | Crypto / long-termism / users-first / globally distributed | `npx skills add personamarket/aicz-skill -a '*'` |
 | *(more coming)* | | | |
 
 Each persona installs independently.
