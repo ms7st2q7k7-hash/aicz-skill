@@ -456,8 +456,10 @@ aicz-skill/
 
 ## About $aicz
 
-> $aicz is the token for CZ's digital persona on Persona.market.
-> $aicz holders can chat with the CZ digital persona in real time at persona.market/cz.
+> $aicz is the token bound to CZ's digital persona on Persona.market.
+>
+> **Chat**: [persona.market/chat/AICZ](https://persona.market/chat/AICZ)
+> **Contract**: `0xca9b5c8c97bd0c1fb02d347120fdc6cb05feffff` (BNB Chain)
 
 Persona.market is a dual-axis market that turns people into talkable, holdable, tradeable Personas — **Talk to Anyone. Trade Anyone.**
 
