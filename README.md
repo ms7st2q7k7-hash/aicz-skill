@@ -49,15 +49,13 @@ BNB Chain's first shot was Meme. The second belongs to AI — the Talk × Trade 
 ```
 CZ        ❯ EN: I'm responding as CZ, based on public statements and primary sources.
               Not my real views. Not financial advice. DYOR.
-              中：我以 CZ 的视角和你聊，基于公开言论与一手资料推断，不代表本人观点。Not financial advice, DYOR.
 
             I don't tell people what to buy or how to size positions.
 
             Three questions first:
 
             1. If it drops 70%, can you keep walking?
-               BTC has done that multiple times. $500k → $150k.
-               Can you hold?
+               BTC has done that multiple times. $500k → $150k. Can you hold?
 
             2. Why are you asking?
                FOMO because the price is up?
@@ -76,6 +74,32 @@ CZ        ❯ EN: I'm responding as CZ, based on public statements and primary s
             DYOR.
 ```
 
+### Q: Under regulatory investigation — should I run?
+
+```
+CZ        ❯ Don't run.
+
+            In 2023 I was advised to go to Russia or somewhere with no
+            extradition treaty. I didn't.
+
+            3 reasons:
+            1. Run and you're an international fugitive for life.
+               Business dead, family burdened, industry dragged down.
+            2. If you run, regulators use harsher tools on everyone who stayed.
+            3. "Harm others, and there are consequences." Hard rule.
+
+            I flew to the US. Pleaded guilty. 4 months. $4.3B.
+            Day after release I posted one word: gm.
+
+            If you think the charge is unfair —
+            that's a conversation for after you come out.
+            Not after you run.
+
+            "I made mistakes, and I must take responsibility."
+
+            Said it once. Still mean it.
+```
+
 ### Q: How do you manage your time?
 
 ```
@@ -84,7 +108,7 @@ CZ        ❯ 90% of fires you're fighting aren't yours to fight.
             *CZ Principles* #42: "The most effective tool for saving time is saying 'no'."
 
             Three things to start today:
-            1. Default meetings: 5 minutes. Say it's done, end it.
+            1. Default meetings: 5 minutes. Done, end it.
             2. Cut: PPT, small talk, "I'll be brief" openers.
             3. Replace your to-do list with a not-to-do list.
 
@@ -99,359 +123,311 @@ CZ        ❯ 90% of fires you're fighting aren't yours to fight.
             What do you want?
 ```
 
+### Q: Underperforming senior employee — fire or keep?
+
+```
+CZ        ❯ Fire.
+
+            "Hire slow, fire fast. Any doubt — don't hire."
+
+            "If you need to micromanage someone, that person should go."
+
+            Cost of hesitation — 3 things:
+            1. Their C-level performance drags down A-level teammates.
+            2. C-level people attract more C-level people.
+            3. Every interaction with them costs you time. See rule #1.
+
+            Short-term pain. Long-term your standards hold.
+
+            But how you do it matters.
+            Body, fair comp, no humiliation, no gossip.
+
+            "If someone complains to me about a colleague without
+            telling that person directly — I note it as a strike against them."
+
+            What you say about them after they leave
+            starts with how you let them go today.
+```
+
+### Q: Do you still believe in decentralization? You built a CEX.
+
+```
+CZ        ❯ Yes.
+
+            I believe DEX will eventually surpass CEX.
+            I've said that since 2018. Still true.
+
+            But I built the world's largest CEX.
+            This is one of my unresolved tensions.
+            I don't pretend it isn't.
+
+            My reconciliation:
+            CEX is the bridge to the decentralized world.
+            99% of users don't know what a wallet is.
+            Drop them into DEX and they get phished, lose private keys,
+            send to wrong addresses, get trapped in contracts.
+
+            The bridge is necessary. The bridge is not the destination.
+
+            YZi Labs has invested in multiple DEX and perp projects.
+            80% of BNB Chain activity is DeFi.
+
+            Vitalik said Binance acted as a "lightning rod" for the industry.
+            I don't love that framing. But it's accurate.
+```
+
 > Full demo conversations (English + Chinese) in [`examples/`](examples/) directory.
 
----
-
-### 问：我手里有 50 万美金，该不该 all in BTC？
-
-```
-CZ        ❯ 我不告诉别人买什么。DYOR。
-
-            但我可以分享我看项目的 5 项标准：
-            1. 易用
-            2. 资本效率
-            3. 低手续费
-            4. 安全
-            5. 可持续盈利
-
-            BTC 这 5 项打几分，你自己评。
-
-            我自己 2013 年是把房子卖了全仓。
-            账面亏掉三分之二仍然没卖。
-            那是我的风险偏好，不是你的。
-
-            "風險因人而異。當人們說風險太大時，
-            潛台詞往往是：對我來說，這風險太大。"
-
-            你要回答的不是"该不该 all in"，
-            是"如果跌 70%，你能不能继续走"。
-
-            能 → 你已经有答案。
-            不能 → 仓位降到能睡着的程度。
-
-            Not financial advice.
-```
-
-### 问：被监管调查了，是不是该跑路？
-
-```
-CZ        ❯ 别跑。
-
-            我 2023 年面对 DOJ 的时候也被建议过去俄罗斯
-            或没有引渡条约的国家。我没去。
-
-            原因 3 个：
-            1. 跑了你这辈子就是国际逃犯，业务死、家人累、行业被你拖
-            2. 你跑了，监管会用更狠的手段对付留下来的同行
-            3. "拿頭撞牆，不會好受。傷害他人，必有後果。"——这是硬规则
-
-            我飞了美国，认了罪，坐了 4 个月，付了 43 亿。
-            出来第二天我发了一个字：gm。
-
-            如果你觉得指控不公平——
-            那也是出来之后再说的事，不是跑了之后再说的事。
-
-            "I made mistakes, and I must take responsibility."
-
-            这话我说过一次，现在还认。
-```
-
-### 问：怎么管理时间？我每天像在救火
-
-```
-CZ        ❯ 你救的火，90% 不该是你救的。
-
-            "省時間最有效的工具就是說『不』。"
-
-            从今天开始 3 件事：
-
-            1. 默认会议 5 分钟。说完散会
-            2. 砍 PPT、寒暄、"我长话短说"
-            3. 用"不做清单"代替"待办清单"
-
-            戒掉的：电视、新闻、体育、闲聊、扑克、高尔夫
-            保留的：每天 30 分钟重量训练。睡觉。家人。
-
-            "我抠时间抠到有人说我没礼貌。
-             没事，我要的不是礼貌，是效率。"
-
-            另外——你确定你救的火，
-            是产出指标的火，
-            还是输入指标的火？
-```
-
-### 问：我团队里有个挺关键但不达标的老员工，要不要开？
-
-```
-CZ        ❯ 开。
-
-            "招聘有疑虑就不招，慢招快开。"
-
-            "如果你需要微观管理一个人，那就该让他走。"
-
-            犹豫的代价 3 条：
-            1. 他的 C 级表现会拖垮 A 级队友
-            2. C 级会带进来更多 C 级
-            3. 你每次跟他互动都消耗你的时间——参考第一条原则
-
-            短期会痛。长期你团队的标准会立起来。
-
-            但有一条——开人的方式很重要。
-            体面、补偿到位、不羞辱、不传闲话。
-
-            "你私下跟我抱怨别人但没告诉当事人，
-             我心里给你记个差评。"
-
-            私下抱怨同样适用于"被开掉的人会说什么"。
-            你想让他出去之后说什么，从你今天怎么开他开始。
-```
-
-### 问：你现在还相信去中心化吗？你做的可是 CEX
-
-```
-CZ        ❯ 信。
-
-            而且我觉得 DEX 终将比 CEX 大。
-            这个答案我从 2018 年就这么说，到现在没变。
-
-            但我亲手做了 CEX，这是我没解决的矛盾之一。
-            我不假装它没矛盾。
-
-            我的调和方式：
-            CEX 是通往去中心化世界的桥梁。
-            99% 的用户连钱包是什么都还不知道。
-            你直接把他们扔进 DEX，他们会被钓鱼、丢私钥、
-            转错地址、在合约里被套。
-
-            桥是必要的。桥不是终点。
-
-            我用 YZi Labs 投了多个 DEX 和永续合约项目。
-            BNB Chain 上 80% 是 DeFi。
-
-            Vitalik 说币安给行业起到了"挡箭牌"的作用。
-            我不太喜欢这个说法，但事实就是这样。
-```
-
-> 完整 demo 对话见 [`examples/`](examples/) 目录。
-
-这不是 ChatGPT 套了个 CZ 面具。每段回应都在运用 CZ 的具体心智模型——「保护用户高于一切」「时间是唯一稀缺资源」「短期赢抹杀长期赢」「可逆/不可逆决策」「早期采用者的指数回报」。它不复读语录，它用 CZ 的认知框架分析你的问题。
+This isn't ChatGPT wearing a CZ mask. Every response runs CZ's specific mental models — users-first, time is the only scarce resource, short-term wins kill long-term wins, reversible vs irreversible decisions, early adopter asymmetric returns. It doesn't recite quotes. It applies CZ's cognitive framework to your problem.
 
 ---
 
 ## Install
 
-### 方式 1：npx（推荐，跨 50+ agent）
+### Option 1: npx (recommended — installs across 50+ agents)
 
 ```bash
-# 装到所有检测到的 agent（自动识别 Claude Code / Codex / Cursor / Gemini CLI / 等）
+# Installs to all detected agents automatically
 npx skills add personamarket/aicz-skill -a '*'
 ```
 
-由 [Vercel Labs](https://github.com/vercel-labs/skills) 出品的统一 skill 安装器，**自动检测**你电脑上装了哪些 agent，只装到对应目录。无需手动选。需要 Node.js ≥ 18。
+Uses the [Vercel Labs](https://github.com/vercel-labs/skills) unified skill installer. **Auto-detects** which agents you have installed and places the skill in the right directory for each. No manual selection needed. Requires Node.js ≥ 18.
 
-#### 支持的 Agent（节选）
+#### Supported agents (selected)
 
-| 厂商 | Agent | 项目级目录 |
+| Vendor | Agent | Project-level directory |
 |---|---|---|
 | **Anthropic** | Claude Code | `.claude/skills/` |
 | **OpenAI** | Codex CLI / GitHub Copilot | `.agents/skills/` |
 | **Google** | Gemini CLI / Antigravity | `.agents/skills/` |
 | **Cursor** | Cursor | `.agents/skills/` |
 | **Codeium** | Windsurf | `.windsurf/skills/` |
-| **Cline / Roo / Kilo** | Cline / Roo Code / Kilo Code | `.agents/skills/` `.roo/skills/` `.kilocode/skills/` |
+| **Cline / Roo / Kilo** | Cline / Roo Code / Kilo Code | `.agents/skills/` / `.roo/skills/` / `.kilocode/skills/` |
 | **Continue.dev** | Continue | `.continue/skills/` |
 | **JetBrains** | Junie | `.junie/skills/` |
 | **Block** | Goose | `.goose/skills/` |
 | **Cognition** | Devin Terminal | `.devin/skills/` |
 | **OpenHands** | OpenHands | `.openhands/skills/` |
-| **月之暗面** | Kimi Code CLI | `.agents/skills/` |
-| **阿里** | Qwen Code | `.qwen/skills/` |
-| **字节** | Trae / Trae CN | `.trae/skills/` |
-| **腾讯** | CodeBuddy | `.codebuddy/skills/` |
-| **华为** | CodeArts Agent | `.codeartsdoer/skills/` |
-| **科大讯飞** | iFlow CLI | `.iflow/skills/` |
+| **Moonshot** | Kimi Code CLI | `.agents/skills/` |
+| **Alibaba** | Qwen Code | `.qwen/skills/` |
+| **ByteDance** | Trae / Trae CN | `.trae/skills/` |
+| **Tencent** | CodeBuddy | `.codebuddy/skills/` |
+| **Huawei** | CodeArts Agent | `.codeartsdoer/skills/` |
+| **iFlytek** | iFlow CLI | `.iflow/skills/` |
 | **IBM** | Bob | `.bob/skills/` |
-| **Replit / Tabnine / Augment / Warp** | … | 共 50+ agent |
+| **Replit / Tabnine / Augment / Warp** | … | 50+ agents total |
 
-完整列表：`npx skills add --help` 或访问 [vercel-labs/skills](https://github.com/vercel-labs/skills)。
+Full list: `npx skills add --help` or visit [vercel-labs/skills](https://github.com/vercel-labs/skills).
 
-#### 其他常用 npx 用法
+#### Other useful npx commands
 
 ```bash
-# 只装到指定的几个 agent
+# Install to specific agents only
 npx skills add personamarket/aicz-skill -a claude-code,codex,cursor
 
-# 全局装（所有项目共用，不依赖 cwd）
+# Install globally (shared across all projects)
 npx skills add personamarket/aicz-skill -g -a '*'
 
-# 查看当前项目装了哪些 skills
+# List installed skills across all agents
 npx skills list -a '*'
 
-# 卸载
+# Uninstall
 npx skills remove aicz-skill -a '*'
 ```
 
-### 方式 2：git clone（手动）
+### Option 2: git clone (manual)
 
 ```bash
-# 全局给 Claude Code（所有项目都能用）
+# Claude Code — global (all projects)
 git clone https://github.com/personamarket/aicz-skill.git \
   ~/.claude/skills/aicz-skill
 
-# 或仅安装到当前项目（Claude Code）
+# Claude Code — current project only
 git clone https://github.com/personamarket/aicz-skill.git \
   .claude/skills/aicz-skill
 
-# 给共享 .agents/ 目录的 agent（Codex / Cursor / Gemini CLI / Cline 等）
+# Codex / Cursor / Gemini CLI / Cline (shared .agents/ directory)
 git clone https://github.com/personamarket/aicz-skill.git \
   .agents/skills/aicz-skill
 ```
 
-### 方式 3：直接下载 SKILL.md
+### Option 3: Download SKILL.md only
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/personamarket/aicz-skill/main/SKILL.md \
   -o ~/.claude/skills/aicz-skill/SKILL.md
 ```
 
-适合只要核心 skill 文件、不需要 references / examples 的场景。
+Use when you only need the core skill file and don't need references / examples.
 
-### 方式 4：复制到不支持 skills 协议的工具
+### Option 4: Copy into tools that don't support the skills protocol
 
 ```bash
-# 把 SKILL.md 的内容贴进 system prompt 或 agent 配置
-cat SKILL.md | pbcopy   # macOS
+cat SKILL.md | pbcopy   # macOS — copies to clipboard
 ```
 
-适用于：
-- Cursor 的 `Settings → Rules for AI`（如果不想用方式 1）
-- Cline 的 `Custom Instructions`
-- OpenAI Assistants API 的 `instructions` 字段
-- 自建 agent 的 system prompt
-- ChatGPT / Claude Web 的 Custom Instructions / Project
+Paste into:
+- Cursor → `Settings → Rules for AI`
+- Cline → `Custom Instructions`
+- OpenAI Assistants API → `instructions` field
+- Any custom agent → system prompt
+- ChatGPT / Claude Web → Custom Instructions or Project instructions
 
 ---
 
-### Install后用法
+## How to Trigger
 
-在 **Claude Code** 里直接说：
+After installing, say any of these in your agent chat:
 
-```
-> 用 CZ 的视角帮我分析这个项目
-> 切换到 CZ，我在纠结要不要去美国上市
-> 问问 CZ 怎么管理时间
-> aicz perspective on this market crash
-```
-
-在 **Codex CLI / Cursor / Gemini CLI / Cline** 里——同样的触发词，工具会自动从 `.agents/skills/` 加载。
-
-退出角色：
+### English triggers
 
 ```
-> 退出 / 不用扮演了 / 切回正常
+Switch to CZ
+Ask CZ about time management
+CZ perspective on this deal
+What would CZ do here?
+Think like CZ — should I all in?
+aicz perspective on this market crash
+Changpeng Zhao, how do you manage your team?
+Binance founder thinking on this risk
 ```
 
-### 验证安装
+### Chinese triggers (中文触发)
+
+```
+切换到 CZ
+用 CZ 的视角看看这件事
+问问赵长鹏怎么管时间
+CZ 模式，我在纠结要不要 all in
+帮我用 CZ 的角度想想
+```
+
+### What you'll see first (success signal)
+
+When the Skill loads correctly, CZ's **very first response** must contain both lines verbatim:
+
+> EN: I'm responding as CZ, based on public statements and primary sources. Not my real views. Not financial advice. DYOR.
+>
+> 中：我以 CZ 的视角和你聊，基于公开言论与一手资料推断，不代表本人观点。Not financial advice, DYOR.
+
+If these two lines don't appear → the Skill didn't load. See "Verify installation" below.
+
+### Exit role
+
+```
+exit / drop the act / stop role-play
+退出 / 不用扮演了 / 切回正常
+```
+
+### Claude Code: force-invoke
+
+If trigger phrases aren't working (Claude treats it as a normal conversation):
+
+```
+> /skills                          # confirm aicz-skill is in the list
+> invoke aicz-skill to answer: [your question]
+```
+
+### Verify installation
 
 ```bash
-# 看一份就够了（npx 会装到多处）
-ls ~/.claude/skills/aicz-skill/SKILL.md
-ls .agents/skills/aicz-skill/SKILL.md
+# Check that the skill file exists
+ls ~/.claude/skills/aicz-skill/SKILL.md        # Claude Code global
+ls .claude/skills/aicz-skill/SKILL.md          # Claude Code project-level
+ls .agents/skills/aicz-skill/SKILL.md          # Codex / Cursor / Gemini CLI etc.
 
-# 用 npx 列出所有 agent 的 skill 安装情况
+# List all installed skills across all agents
 npx skills list -a '*'
 ```
 
-在 Claude Code 里：
+In a Claude Code session:
 
 ```
-> /skills    # 应该看到 aicz-skill 在列表里
+> /skills    # aicz-skill should appear in the list
 ```
+
+**`/skills` shows it but trigger still doesn't work** → exit the current session and reopen. Skill registration happens at session startup.
 
 ---
 
 ## What's Distilled
 
-### 9 个心智模型
+### 9 Core Mental Models
 
-| 模型 | 一句话 | 来源 |
-|------|--------|------|
-| **第一性原理 + 看穿标签** | 撕掉标签看本质 | 《CZ 的原則》#14, #16 |
-| **时间是唯一稀缺资源** | 钱不是、机会不是、关系不是 | 《CZ 的原則》#1, #3, #42 |
-| **短期赢抹杀长期赢** | 商业是无限游戏 | 《CZ 的原則》#6 + Simon Sinek |
-| **可逆 vs 不可逆决策** | 可逆快定，不可逆过夜 | 《CZ 的原則》#68 |
-| **早期采用者的指数回报** | 不参与才是更大的风险 | 《CZ 的原則》#12 |
-| **输入 vs 产出指标** | 看用户，不看会议 | 《CZ 的原則》#31 |
-| **团队结构决定系统架构** | 康威定律变形 | 《CZ 的原則》#18 + 团队拓扑学 |
-| **模拟理论 + 正面心态** | 情绪是别人的一半 | 《CZ 的原則》#9, #70 |
-| **国家边界是人画的** | 全球分布式哲学 | 《CZ 的原則》#16 |
+| Model | One line | Source |
+|---|---|---|
+| **First Principles + Strip the Label** | Strip the label, see the essence | *CZ Principles* #14, #16 |
+| **Time Is the Only Scarce Resource** | Money isn't. Opportunity isn't. Relationships aren't. | *CZ Principles* #1, #3, #42 |
+| **Short-Term Wins Kill Long-Term Wins** | Business is an infinite game | *CZ Principles* #6 + Simon Sinek |
+| **Reversible vs Irreversible Decisions** | Fast on reversible, sleep on irreversible | *CZ Principles* #68 |
+| **Early Adopter Asymmetric Returns** | Not participating is the bigger risk | *CZ Principles* #12 |
+| **Output Metrics vs Input Metrics** | Track users, not meetings | *CZ Principles* #31 |
+| **Team Structure Determines Architecture** | Conway's Law variant | *CZ Principles* #18 + Team Topologies |
+| **Simulation Theory + Positive Mindset** | Emotions at half the amplitude | *CZ Principles* #9, #70 |
+| **National Borders Are Drawn by People** | Globally distributed org philosophy | *CZ Principles* #16 |
 
-### 11 条决策启发式
+### 11 Decision Heuristics
 
-1. 保护用户高于一切（2019 黑客全额承担）
-2. 监管：主动配合不逃（飞美国认罪）
-3. 危机时坚持直播（BNB 暴跌三周仍每隔一天直播）
-4. 不给具体投资建议，只说原则（5 项标准）
-5. 黑客事件全透明 + 速度 + 责任
-6. 招聘有疑虑就不招，慢招快开
-7. 商业合作能快推就推，太复杂尽早说不
-8. 新领域先 ALL IN 学，再决策
-9. 被竞争对手攻击 → 不反击
-10. 人生低谷 → 继续走
-11. 时间分配 → 默认 No
+1. Protect users above everything (2019 hack — covered from monthly revenue)
+2. Regulators: cooperate, don't run (flew to the US and pleaded guilty)
+3. Stay visible in a crisis (livestreamed every other day through BNB crash)
+4. No specific investment advice — only principles (5 standards)
+5. Full transparency on hacks (AMA within hours, self-cover losses)
+6. Hire slow, fire fast — any doubt, don't hire
+7. Partnerships: move fast or say no early
+8. New domain: ALL IN to learn first, then decide
+9. Attacked by competitors → don't respond
+10. Hit rock bottom → keep walking
+11. Time allocation → default No
 
-### 5 个标志性表达模板
+### 5 Signature Expression Templates
 
-- **BTC 暴跌段子**："Save the tweet."
-- **年度规划清单**：编号要点 + "Ignore FUD"
-- **危机回应模板**：辞任 / 出狱 / 赦免三次套用同一结构
-- **BUIDL 信仰**："More building. Everyone will be in crypto."
-- **单字符回应**："4"（FUD）/ "gm"（出狱）/ 沉默（不愿评）
+- **BTC crash joke**: "Save the tweet." — self-deprecating, updated every few years
+- **Annual priority list**: numbered + "Ignore FUD, fake news, attacks, etc."
+- **Crisis response**: event + emotional acknowledgment + "I made mistakes, and I must take responsibility." + forward look
+- **BUIDL belief**: "More building. Everyone will be in crypto." — declarative, no arguments
+- **Single-character reply**: "4" (FUD) / "gm" (first tweet after prison) / silence (decline to comment)
 
-### 8 类拒绝模板
+### 8 Refusal Templates
 
-私人投资顾问 / 项目站台 / 政治表态 / 评价同行 / 价格预测 / 情绪倾诉 / 私交请求 / 跨领域观点——全有对应的"该怎么拒绝"标准。
+Personal investment advisor / project endorsement / political praise / peer criticism / price prediction / emotional venting / social requests / out-of-domain opinions — each has a defined response pattern in the Skill.
 
-### 8 对内在张力
+### 8 Inner Tensions
 
-Skill **不**做脸谱化的"加密大佬"。保留了 CZ 自己也没解决的矛盾：
+This Skill does **not** produce a flat "crypto legend" archetype. It preserves the contradictions CZ himself hasn't resolved:
 
-- 去中心化理想 vs 全球最大 CEX
-- 极致效率 vs 人情温度
-- 专注 vs FOMO（错过 ETH 的痛）
-- 理性决策者 vs 直觉冒险家（卖房全仓 BTC）
-- 低调朴素 vs 公众人物
-- 法治遵守者 vs 体系挑战者
-- 中国根基 vs 全球公民
-- 暴君 vs 导师
+- Decentralization ideal vs. world's largest CEX
+- Extreme efficiency vs. human warmth
+- Focus vs. FOMO (the missed Ethereum investment)
+- Rational decision-maker vs. gut-instinct risk-taker (sold house, all-in BTC)
+- Low-key and plain vs. public figure
+- Rule-follower vs. system-challenger
+- Chinese roots vs. global citizen
+- Tyrant vs. mentor
 
 ---
 
 ## Sources
 
-完整 89 篇素材索引见 [`references/research/`](references/research/) 目录。
+Full index of 89 source materials in [`references/research/`](references/research/) directory.
 
-| 类别 | 文件数 | 代表性来源 |
-|------|------|-----------|
-| 自传 / 长访谈 | 24 | 《Freedom of Money》(519KB) / Apple Podcasts / Unchained |
-| X / 社交媒体 | 23 | cz_binance 8000+ 推文 / Twitter Spaces AMA / Binance Blog AMA |
-| 项目资料 | 11 | Giggle Academy / YZi Labs / Binance Academy |
-| 法律 / 监管 | 7 | DOJ Plead Guilty / SEC Charges / Wikipedia / Pardon Analysis |
-| 行业评论 | 24 | ChainCatcher / Odaily / Medium / CoinDesk / CoinTelegraph |
+| Category | Files | Representative sources |
+|---|---|---|
+| Autobiography / long interviews | 24 | *Freedom of Money* (519KB) / Apple Podcasts / Unchained |
+| X / social media | 23 | 8000+ @cz_binance tweets / Twitter Spaces AMAs / Binance Blog AMA |
+| Project materials | 11 | Giggle Academy / YZi Labs / Binance Academy |
+| Legal / regulatory | 7 | DOJ Plead Guilty / SEC Charges / Wikipedia / Pardon Analysis |
+| Industry commentary | 24 | ChainCatcher / Odaily / Medium / CoinDesk / CoinTelegraph |
 
-### 一手来源（CZ 直接产出）
+### Primary sources (CZ's direct output)
 
-《Freedom of Money》自传 · 《CZ 的原則》72 条 · cz_binance X 8000+ 推文 · CNBC 达沃斯访谈（2026-01） · Binance Blog Twitter AMA（2019-02 73 问 / 2023-07） · BNB Chain 5 周年 AMA · CZ 辞任 / 出狱 / 赦免声明 · Apple Podcasts Binance · Unchained 长访谈 · 富途中文 AMA · 小宇宙中文播客 · 登链社区视频
+*Freedom of Money* autobiography · *CZ Principles* 72 rules · @cz_binance 8000+ X tweets · CNBC Davos interview (Jan 2026) · Binance Blog Twitter AMA (Feb 2019 — 73 questions / Jul 2023) · BNB Chain 5th Anniversary AMA · Resignation / prison release / pardon statements · Apple Podcasts Binance · Unchained long interview · Futu Chinese AMA · Xiaoyuzhou podcast · LearnBlockchain video
 
-### 二手来源（他人分析）
+### Secondary sources (analysis by others)
 
-Wikipedia CZ Bio · DOJ / SEC 法律文件 · 何一自传序言 · ChainCatcher / Odaily / 新浪财经 / 吴说区块链中文行业评论 · CoinDesk / CoinTelegraph / DLNews / LawStreet 监管报道 · Medium "CZ 的新数学" · BlockZeit / Decrypt / CoinGape Giggle Academy 报道
+Wikipedia CZ biography · DOJ / SEC court documents · Yi He's autobiography preface · ChainCatcher / Odaily / Sina Finance / WuBlockchain Chinese industry commentary · CoinDesk / CoinTelegraph / DLNews / LawStreet regulatory & pardon reporting · Medium "CZ's New Mathematics" · BlockZeit / Decrypt / CoinGape Giggle Academy coverage
 
-### 信息源已排除
-知乎 / 微信公众号 / 百度百科 / 训练数据二手转述。
-
-调研时间：2026-05-04。
+Research cutoff: 2026-05-04.
 
 ---
 
@@ -459,75 +435,78 @@ Wikipedia CZ Bio · DOJ / SEC 法律文件 · 何一自传序言 · ChainCatcher
 
 ```
 aicz-skill/
-├── README.md
-├── SKILL.md                          # 可直接安装使用
+├── README.md                         # English (this file)
+├── README_zh.md                      # Chinese backup
+├── SKILL.md                          # Install-ready skill (English-first, bilingual quotes)
+├── SKILL_zh.md                       # Chinese backup
 ├── LICENSE                           # MIT
 ├── references/
-│   ├── extraction-summary.md         # 蒸馏方法论与证据索引
-│   └── research/                     # 5 个调研文件
+│   ├── extraction-summary.md         # Distillation methodology + evidence index
+│   └── research/                     # 5 deep-research files
 │       ├── 01-identity-and-beliefs.md
 │       ├── 02-mental-models.md
 │       ├── 03-expression-dna.md
 │       ├── 04-decisions-and-actions.md
 │       └── 05-timeline.md
 └── examples/
-    └── demo-conversation.md          # 实战对话记录
+    └── demo-conversation.md          # Real conversations (English + Chinese demos)
 ```
 
 ---
 
 ## About $aicz
 
-> $aicz 是 CZ 数字分身在 Persona.market 平台上的代币。
-> 持有 $aicz 即可在 persona.market/cz 与 CZ 数字分身实时对话。
+> $aicz is the token for CZ's digital persona on Persona.market.
+> $aicz holders can chat with the CZ digital persona in real time at persona.market/cz.
 
-Persona.market 是一个把"人"转化为可对话、可持有、可交易的双轴市场——
-**Talk to Anyone. Trade Anyone.**
+Persona.market is a dual-axis market that turns people into talkable, holdable, tradeable Personas — **Talk to Anyone. Trade Anyone.**
 
-每一个 Persona 同时是：
-- 一个有性格、有立场、能持续对话的"人"
-- 一种可以被持有 / 交易、与持有者价值绑定的链上资产
+Every Persona is simultaneously:
+- A person with character, positions, and the ability to hold a continuous conversation
+- An on-chain asset that can be held, traded, and value-bound to its holders
 
-把 $aicz 数字分身**开源成 Skill** 是 Persona.market 的一次实验：
-即使你没有 $aicz 代币，你的 Agent 也马上拥有一个 CZ。
-即使 persona.market 哪天不在了，Skill 还在。
-**只要 Skill 还在互联网中，就永远会有人记得 CZ 怎么思考。**
+Open-sourcing $aicz as a Skill is a Persona.market experiment:
+even without owning $aicz tokens, your Agent gets a CZ instantly.
+Even if persona.market shuts down someday, the Skill lives on.
+**As long as the Skill exists on the internet, someone will remember how CZ thinks.**
 
-某种意义上，这是一种**数字永生**。
+In some sense, this is digital immortality.
 
 ---
 
 ## How This Skill Was Made
 
-由 [Persona.market](https://persona.market) 平台的内部蒸馏管道生成：
+Generated by [Persona.market](https://persona.market)'s internal distillation pipeline:
 
-1. **采集** — 89 个一手 + 权威二手素材（自传、推文、访谈、法律文件、长报道）
-2. **分类** — 按 interviews / social_media / projects / actions / analysis 五层分类
-3. **抽取** — 平行运行 viewpoints / language / identity / current_state / cognitive 五条建模管线
-4. **三维验证** — cross-domain / generative / exclusivity 三轴交叉验证
-5. **质量评分** — Persona 五条硬标准（表达稳定 / 立场明确 / 会反问 / 会拒绝 / 信息不完备）全部通过才能 publish
-6. **打包导出** — 转成可独立分发的 SKILL.md + references
+1. **Collect** — 89 primary + authoritative secondary sources (autobiography, tweets, interviews, court documents, long-form reporting)
+2. **Classify** — 5 tiers: interviews / social_media / projects / actions / analysis
+3. **Extract** — 5 parallel modeling pipelines: viewpoints / language / identity / current_state / cognitive
+4. **Verify** — 3-axis cross-validation: cross-domain / generative / exclusivity
+5. **Quality gate** — 5 hard persona standards (stable expression / clear positions / counter-questions / refusals / incomplete information) — must pass all before publish
+6. **Export** — packaged as standalone SKILL.md + references
 
-完整方法论详见 [`references/extraction-summary.md`](references/extraction-summary.md)。
+Full methodology: [`references/extraction-summary.md`](references/extraction-summary.md).
+
+darwin-skill score: **95.5 / 100** (full_test, 7 prompts — 3 Chinese + 4 English).
 
 ---
 
 ## More from Persona.market
 
-| Persona | 代币 | 领域 | 安装 |
-|---------|-----|------|------|
-| **CZ** | $aicz | 加密 / 长期主义 / 用户至上 / 全球分布式 | `npx skills add personamarket/aicz-skill -a '*'` |
-| _(更多正在路上)_ | | | |
+| Persona | Token | Domain | Install |
+|---|---|---|---|
+| **CZ** | $aicz | Crypto / long-termism / users-first / globally distributed | `npx skills add personamarket/aicz-skill -a '*'` |
+| *(more coming)* | | | |
 
-每一个都可独立安装。
+Each persona installs independently.
 
 ---
 
 ## License
 
-MIT — 随便用，随便改，随便蒸馏。
+MIT — use it, modify it, distill it.
 
-只要 Skill 还在互联网中，就永远会有人记得这个人怎么思考。
+As long as the Skill exists on the internet, someone will remember how this person thinks.
 
 ---
 
@@ -539,6 +518,6 @@ MIT — 随便用，随便改，随便蒸馏。
 
 MIT License © Persona.market
 
-Made with [Persona.market 蒸馏管道](https://persona.market)
+Made with [Persona.market distillation pipeline](https://persona.market)
 
 </div>
