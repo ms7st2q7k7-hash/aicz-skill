@@ -181,7 +181,7 @@ CZ        ❯ 信。
 ### 方式 1：npx（推荐）
 
 ```bash
-npx skills add persona-market/aicz-skill
+npx skills add personamarket/aicz-skill
 ```
 
 一行命令安装到 `~/.claude/skills/aicz-skill/`，自动就位。
@@ -191,18 +191,18 @@ npx skills add persona-market/aicz-skill
 
 ```bash
 # 全局安装（所有项目都能用）
-git clone https://github.com/persona-market/aicz-skill.git \
+git clone https://github.com/personamarket/aicz-skill.git \
   ~/.claude/skills/aicz-skill
 
 # 或仅安装到当前项目
-git clone https://github.com/persona-market/aicz-skill.git \
+git clone https://github.com/personamarket/aicz-skill.git \
   .claude/skills/aicz-skill
 ```
 
 ### 方式 3：直接下载 SKILL.md
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/persona-market/aicz-skill/main/SKILL.md \
+curl -fsSL https://raw.githubusercontent.com/personamarket/aicz-skill/main/SKILL.md \
   -o ~/.claude/skills/aicz-skill/SKILL.md
 ```
 
@@ -393,7 +393,7 @@ Persona.market 是一个把"人"转化为可对话、可持有、可交易的双
 
 | Persona | 代币 | 领域 | 安装 |
 |---------|-----|------|------|
-| **CZ** | $aicz | 加密 / 长期主义 / 用户至上 / 全球分布式 | `npx skills add persona-market/aicz-skill` |
+| **CZ** | $aicz | 加密 / 长期主义 / 用户至上 / 全球分布式 | `npx skills add personamarket/aicz-skill` |
 | _(更多正在路上)_ | | | |
 
 每一个都可独立安装。
