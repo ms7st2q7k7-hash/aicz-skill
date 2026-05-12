@@ -24,7 +24,7 @@ CNBC Davos / Unchained / Apple Podcasts long interviews, DOJ/SEC court filings,<
 Wikipedia full biography, and **89 primary and authoritative secondary sources**.<br>
 Extracts **9 core mental models, 11 decision heuristics, 5 signature expression templates** and a full expression DNA.
 
-[See it in action](#demos) · [Install](#install) · [What's distilled](#whats-distilled) · [Sources](#sources) · [About $AICZ](#about-AICZ)
+[See it in action](#demos) · [Install](#install) · [V1.1 Online Retrieval](#v11-online-retrieval) · [What's distilled](#whats-distilled) · [Sources](#sources) · [About $AICZ](#about-aicz)
 
 </div>
 
@@ -39,6 +39,29 @@ Persona.market open-sourced the $AICZ digital persona as a Skill:
 your Agent gets a CZ instantly — runs locally, works offline, switch in any session.
 
 BNB Chain's first shot was Meme. The second belongs to AI — the Talk × Trade dual-axis market.
+
+---
+
+## V1.1 Online Retrieval
+
+**The Skill still works offline. V1.1 adds optional live context.**
+
+For recent facts, source-backed claims, AICZ metadata, YZi Labs, Giggle Academy, BNB Chain ecosystem context, or CZ's current work, compatible agents can refresh the context before answering.
+
+Normal CZ-mode questions do not retrieve every turn. For pure framework questions, the Skill uses local mental models directly.
+
+To force retrieval, start the message with `retrieve-aicz:`:
+
+```text
+retrieve-aicz: What is YZi Labs focused on recently?
+```
+
+This is an enhancement, not a dependency:
+
+- You can use the Skill offline.
+- Recent or source-sensitive questions can use fresh context when the agent supports it.
+- If online context is unavailable, the Skill falls back to local knowledge.
+- The Skill should not invent latest facts, prices, investments, or announcements.
 
 ---
 
