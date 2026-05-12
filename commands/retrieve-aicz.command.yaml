@@ -1,0 +1,20 @@
+name: retrieve-aicz
+description: Retrieve AICZ persona context and answer in CZ style.
+input:
+  query:
+    type: string
+    required: true
+    description: User question or retrieval query.
+runtime:
+  type: shell
+  script: scripts/retrieve-aicz.sh
+  default_limit: 5
+default_endpoint: https://persona.market/app/api/skills/aicz/retrieve
+outputs:
+  format: source_snippets
+  style: concise_cz
+platforms:
+  - claude-code
+  - codex-cli
+  - codex-app
+  - gemini-cli
