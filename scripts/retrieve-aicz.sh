@@ -143,7 +143,7 @@ if [ -z "$query" ]; then
 fi
 
 if [ "$dry_run" -eq 1 ]; then
-  printf 'curl -fsSL --get --data-urlencode q=%s --data-urlencode limit=%s -H accept:application/json -H user-agent:aicz-skill-retrieval/1.0 %s\n' "$query" "$limit" "$endpoint"
+  printf 'curl -fsSL --get --data-urlencode q=%s --data-urlencode limit=%s -H accept:application/json -H "user-agent: Mozilla/5.0 (compatible; aicz-skill-retrieval)" %s\n' "$query" "$limit" "$endpoint"
   exit 0
 fi
 
@@ -156,7 +156,7 @@ response=$(curl -fsSL --get \
   --data-urlencode "q=$query" \
   --data-urlencode "limit=$limit" \
   -H "accept: application/json" \
-  -H "user-agent: aicz-skill-retrieval/1.0" \
+  -H "user-agent: Mozilla/5.0 (compatible; aicz-skill-retrieval)" \
   "$endpoint") || exit $?
 
 printf '%s' "$response" | format_payload
